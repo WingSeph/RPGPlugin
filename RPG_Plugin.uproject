@@ -3,11 +3,5 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
-	"Plugins": [
-		{
-			"Name": "RPGplugin",
-			"Enabled": false
-		}
-	]
+	"Enterprise": true
 }
