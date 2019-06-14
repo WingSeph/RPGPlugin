@@ -7,7 +7,7 @@
 	"Plugins": [
 		{
 			"Name": "RPGplugin",
-			"Enabled": false
+			"Enabled": true
 		}
 	]
 }
